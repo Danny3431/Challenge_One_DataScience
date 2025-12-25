@@ -118,7 +118,7 @@ Se incluyen:
 
 🔎 Visualiza el mapa interactivo con filtros por tienda(Folium):
 
-👉 https://danny3431.github.io/Challenge_One_DataScience/mapa_concentracion.html
+👉 https://danny3431.github.io/Challenge_One_DataScience/main/mapa_concentracion.html
 
 ---
 
