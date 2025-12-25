@@ -119,7 +119,7 @@ Se incluyen:
 El siguiente mapa interactivo muestra la concentración de ventas por tienda,
 permitiendo visualizar la distribución geográfica de los productos vendidos.
 
-👉 [Ver mapa interactivo de concentración de ventas](mapa_concentracion.html)
+👉 [Ver mapa interactivo de concentración de ventas](main/mapa_concentracion.html)
 
 ---
 
