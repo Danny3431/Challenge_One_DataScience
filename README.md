@@ -114,6 +114,15 @@ Se incluyen:
 
 ---
 
+## 🗺️ Análisis geográfico de ventas
+
+El siguiente mapa interactivo muestra la concentración de ventas por tienda,
+permitiendo visualizar la distribución geográfica de los productos vendidos.
+
+👉 [Ver mapa interactivo de concentración de ventas](mapa_concentracion.html)
+
+---
+
 ## 📈 Conclusión
 
 De acuerdo con los análisis realizados, la **Tienda 4** presenta una menor participación en los ingresos totales, manteniendo un desempeño operativo adecuado. **Vender esta tienda permitiría obtener liquidez** sin comprometer significativamente el flujo principal del negocio, **reduciendo el riesgo patrimonial y facilitando la reinversión.**
