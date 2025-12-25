@@ -116,9 +116,10 @@ Se incluyen:
 
 ## 🗺️ Mapa interactivo de concentración de ventas
 
-🔎 Visualiza el mapa interactivo con filtros por tienda:
+🔎 Visualiza el mapa interactivo con filtros por tienda(Folium):
 
-👉 https://github.com/Danny3431/Challenge_One_DataScience/blob/main/mapa_concentracion.html
+👉 https://danny3431.github.io/Challenge_One_DataScience/mapa_concentracion.html
+
 ---
 
 ## 📈 Conclusión
