@@ -60,9 +60,6 @@ Gráfico de barras agrupadas por tienda y categoría.
 ![Ventas por categoría](images/ventas_categoria.png)
 
 
-#### 📊 Top 5 productos más vendidos por tienda
-
-![Top productos por tienda](images/top_productos_por_tienda.png)
 
 
 ---
