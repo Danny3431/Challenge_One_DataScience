@@ -114,13 +114,11 @@ Se incluyen:
 
 ---
 
-## 🗺️ Análisis geográfico de ventas
+## 🗺️ Mapa interactivo de concentración de ventas
 
-El siguiente mapa interactivo muestra la concentración de ventas por tienda,
-permitiendo visualizar la distribución geográfica de los productos vendidos.
+🔎 Visualiza el mapa interactivo con filtros por tienda:
 
-👉 [Ver mapa interactivo de concentración de ventas](main/mapa_concentracion.html)
-
+👉 https://github.com/Danny3431/Challenge_One_DataScience/blob/main/mapa_concentracion.html
 ---
 
 ## 📈 Conclusión
